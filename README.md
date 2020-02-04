@@ -1,14 +1,16 @@
-# faceDection
+# FaceDection
 ## Intro
 Face detection system based on transfer learning (work in progress)
 
-## transfer learning
+## Transfer learning
 First of all if you want to train your own dataset, I highly recommand to train on the WinderFace dataset: <a href="http://shuoyang1213.me/WIDERFACE/">download</a> It has a large amount of varied images of faces.
 
-### steps
-#### Before using the transfer learning script
+
+### Before using the transfer learning script
 The first time you will have to label your data by yourself. You chouse the best x images and label them with an annotation tool. After training for the first time you can use those weights in the transfer learning script.
 
+
+### Steps
 
 ```
 $ cd trasnferLearning
