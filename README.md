@@ -1,4 +1,8 @@
 # FaceDection
+
+<img src='./football.jpg' width='50%'>
+<img src='./screenshot2.png' width='50%'>
+
 ## Intro
 Yolo + OpenCV face detection system based on transfer learning (work in progress)
 
